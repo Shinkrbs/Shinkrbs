@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Iskolar ni Mama
 ---------------
 
-Hello, I'm Kerby, a computer science student at Visayas State University. I'm passionate about programming and eager to learn more about it. I use GitHub to keep track of my coding progress. Wish me luck on my coding journey! 🌱
+Hello, I'm Kerby, a computer science student at Visayas State University. I'm passionate about programming and eager to learn more about it. I use GitHub to keep track of my coding progress. Sana di ako mamatay! 🌱
 
 *   ✉️  You can contact me at [kerbydolamoscs@gmail.com](mailto:kerbydolamoscs@gmail.com)
 *   🧠  I'm learning C Language and GD Script
