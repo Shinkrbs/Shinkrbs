@@ -7,5 +7,5 @@ Iskolar ni Mama
 Hello, I'm Kerby, a computer science student at Visayas State University. I'm passionate about programming and eager to learn more about it. I use GitHub to keep track of my coding progress. Sana di ako mamatay! 🌱
 
 *   ✉️  You can contact me at [kerbydolamoscs@gmail.com](mailto:kerbydolamoscs@gmail.com)
-*   🧠  I'm learning C Language and GD Script
+*   🧠  I'm currently studying C Language and GD Script
 *   ⚡  I need help.
