@@ -1,11 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kerby Dolamos
-=====================================================================================================================================
+
 
 Iskolar ni Mama
 ---------------
-
-Hello, I'm Kerby, a computer science student at Visayas State University. I'm passionate about programming and eager to learn more about it. I use GitHub to keep track of my coding progress. Sana di ako mamatay! 
-
-*   ✉️  You can contact me at [kerbydolamoscs@gmail.com](mailto:kerbydolamoscs@gmail.com)
-*   🧠  I'm currently studying C Language and GD Script
-*   ⚡  I need help.
+A computer science student. I use GitHub to keep track of my coding progress. Yun lang kbye..
