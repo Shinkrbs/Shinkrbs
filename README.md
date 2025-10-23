@@ -1,4 +1,6 @@
-## Hi there 👋
+![Picture](images/Kerby-Saiyan.gif)
+
+## Yes, I am a kompyuter saiyantist☝🏼
 
 <!--
 **Shinkrbs/Shinkrbs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
