@@ -6,7 +6,7 @@ Aspiring Software Developer with a strong interest in Object Oriented Programmin
 
 
 - 📘 Currently a Third Year Student at Visayas State University
-- 🎨 I am passinate about UI/UX Design and Frontend Development
+- 🎨 I am passionate about UI/UX Design and Frontend Development
 - 🖼️ I have experience with Graphic Design and Illustration
 - 📝 Currently a project frontend lead of project atlas
 - ❓ Planning/Drafting project coins 
