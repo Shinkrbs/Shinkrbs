@@ -1,66 +1,73 @@
 ![Picture](images/Kerby-Saiyan.gif)
 
----
+# Hi, I'm <strong>Shn Kerby Dolamos! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWJhZW50bWQ4dDMzOHJtaGhocjFldXhnNGNjYWNsYThmOGZkNW84byZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/aQuMoDDzHv4AivLPNn/giphy.gif" width="70px" height="30px">
 
-<div align="center">
-  <h1>Hi! I'm <strong>Kerby</strong> and yes I am a Kompyuter Saiyantist! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjc0N3FlMGJlNGtpdTJvbnQxejA2NDl2N2d6Zmg3NTk3YjN2bGZnNiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/ocMYtK6yU1AE8/giphy.gif" width="50px" height="50px"/></h1>
-</div>
+Aspiring Software Developer with a strong interest in Object Oriented Programming and a Junior Student at Visayas State University.
 
-<div>
-  <h1><i>About Me</i></h1>
-  
-  <p> <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3cWlmZXYxNHd1YmJyYmMzZnF5amltN2puZW9sZzViajh4M2Y1MDEyaCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/iIifSQSQUKteo/giphy.gif" width="40px" height="40px"/> I'm currently 3rd year at Visayas State University</p>
 
-  <p> <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c2QzY3RlM3h6YzVrMnkwZXpmMXFudjViZzd0YnRqc25xNXRzcmp3MSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/iw2tNlO6ob3zi/giphy.gif" width="40px" height="20px"/> I'm willing to collaborate on projects</p>
+- 📘 Currently a Third Year Student at Visayas State University
+- 🎨 I am passinate about UI/UX Design and Frontend Development
+- 🖼️ I have experience with Graphic Design and Illustration
+- 📝 Currently a project frontend lead of project atlas
+- ❓ Planning/Drafting project coins 
+- 🏫 Currently learning about laravel and exploring more about React
 
-  <p> <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnMyOTZwdTc2eHEwN3Jma2d2c2NubGpyeGNyb3ZwOGU4dDRldzJ3byZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/10fsqdkdVav9S/giphy.gif" width="40px" height="20px"/> I'm currently developing projects for myself and university</p>
-</div>
-
----
-
-<h1><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YWVuNHBkb2tjcnJzZTVnaGJmamg1YWFuMzRmM3V5ejYyMWx4YWQxNiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XGwmPfjq25vr2/giphy.gif"width="50px" height="50px"/> <i>Skills</i></h1>
+<h1><i>Skills</i> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDM5YWd0bXR2d3M4dWRuejRucnVkNmI3NG41YzhuZzc5em5rODdkZCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/L4iHzbgg0Guo5qs5LQ/giphy.gif"width="50px" height="50px"/> </h1>
 
 <div align="center">
 <img width="40px" height="40px" src="https://skillicons.dev/icons?i=js" alt="JavaScript" />
-      <img width="40px" height="40px" src="https://skillicons.dev/icons?i=ts" alt="TypeScript" />
-      <img width="40px" height="40px" src="https://skillicons.dev/icons?i=py" alt="Python" />
-      <img width="40px" height="40px" src="https://skillicons.dev/icons?i=java" alt="Java" />
-      <img width="40px" height="40px" src="https://skillicons.dev/icons?i=cpp" alt="C++" />
-      <img width="40px" height="40px" src="https://skillicons.dev/icons?i=cs" alt="C#" />
-      <img width="40px" height="40px" src="https://skillicons.dev/icons?i=php" alt="PHP" />
-      <img width="40px" height="40px" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" />
-      <img width="40px" height="40px" src="https://skillicons.dev/icons?i=express" alt="Express.js" />
-      <img width="40px" height="40px" src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
-      <img width="40px" height="40px" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" />
-      <img width="40px" height="40px" src="https://skillicons.dev/icons?i=git" alt="Git" />
-      <img width="40px" height="40px" src="https://skillicons.dev/icons?i=vscode" alt="VS Code" />
-      <img width="40px" height="40px" src="https://skillicons.dev/icons?i=figma" alt="Figma" />
+      <img width="40px" height="40px" src="https://skillicons.dev/icons?i=ts"/>
+      <img width="40px" height="40px" src="https://skillicons.dev/icons?i=py"/>
+      <img width="40px" height="40px" src="https://skillicons.dev/icons?i=java"/>
+      <img width="40px" height="40px" src="https://skillicons.dev/icons?i=cpp"/>
+      <img width="40px" height="40px" src="https://skillicons.dev/icons?i=cs"/>
+      <img width="40px" height="40px" src="https://skillicons.dev/icons?i=php"/>
+      <img width="40px" height="40px" src="https://skillicons.dev/icons?i=nodejs"/>
+      <img width="40px" height="40px" src="https://skillicons.dev/icons?i=express"/>
+      <img width="40px" height="40px" src="https://skillicons.dev/icons?i=mysql"/>
+      <img width="40px" height="40px" src="https://skillicons.dev/icons?i=postgres"/>
+      <img width="40px" height="40px" src="https://skillicons.dev/icons?i=git"/>
+      <img width="40px" height="40px" src="https://skillicons.dev/icons?i=vscode" />
+      <img width="40px" height="40px" src="https://skillicons.dev/icons?i=figma"/>
+      <img width="40px" height="40px" src="https://skillicons.dev/icons?i=supabase"/>
+      <img width="40px" height="40px" src="https://skillicons.dev/icons?i=laravel"/>
+      <img width="40px" height="40px" src="https://skillicons.dev/icons?i=photoshop"/>
+      <img width="40px" height="40px" src="https://skillicons.dev/icons?i=html"/>
+      <img width="40px" height="40px" src="https://skillicons.dev/icons?i=css"/>
+      <img width="40px" height="40px" src="https://skillicons.dev/icons?i=tailwind"/>
+      <img width="40px" height="40px" src="https://skillicons.dev/icons?i=react"/>
+      <img width="40px" height="40px" src="https://skillicons.dev/icons?i=vercel"/>
+      <img width="40px" height="40px" src="https://skillicons.dev/icons?i=net"/>
+      <img width="40px" height="40px" src="https://skillicons.dev/icons?i=next"/>
 </div>
 
-<h1><img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3ZG5nMnc0bG05M21yYTAxNnZsNnV1Mm9lMXozcDUwc2s0d3k5ZzU1YiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/lgqucxojk56rC/giphy.gif"width="100px" height="50px"/> <i>Github Stats</i></h1> 
+<h1><i>Github Stats</i><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJkOHQ4N2Vtb3loMWU5N3doOWcyaXE5cG14bjlqNTNmaTdxNnFhZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/O74VEiwlTpmuXH1vFW/giphy.gif"width="50px" height="50px"/> </h1> 
 <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShinKrbs&show_icons=true&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShinKrbs&show_icons=true&theme=dark&rank_icon=github&hide=stars,issues"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shinkrbs&show_icons=true&theme=dark"/>
 </div>
 
-<h2 align="left">
-  Connect with me 
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3YnMyOTZwdTc2eHEwN3Jma2d2c2NubGpyeGNyb3ZwOGU4dDRldzJ3byZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/YajrOgusnoUXC/giphy.gif" width="100px">
-</h2>
+<h1 align="left">
+  <i>Connect with me </i>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzJkOHQ4N2Vtb3loMWU5N3doOWcyaXE5cG14bjlqNTNmaTdxNnFhZyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/vS8deMiryn69PFGwJQ/giphy.gif" width="20px">
+</h1>
 
 <p align="center">
   <a href="https://www.facebook.com/kryoo12/">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=b" alt="Facebook">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook"  width="40" height="40">
   </a>
   <a href="https://www.instagram.com/shn.krbs/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="40" height="40">
   </a>
   <a href="https://www.linkedin.com/in/shn-kerby-dolamos-975750382/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="40" height="40">
+  </a>
+  <a href="mailto:kerbydolamoscs@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" width="40" height="40">
   </a>
 </p>
 
-Feel free to connect with me on any of these platforms! 
+Feel free to connect with me on any of these platforms! Always looking forwared with future collaborations!
 
 ---
 
